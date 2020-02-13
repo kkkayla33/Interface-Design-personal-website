@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>Hello!</title>
@@ -41,12 +39,11 @@
       <br>
       <br>
       <br>
-      <br>
-      <br>
+     
       <h2 id="logo">
           Z I J I N G<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; K A Y L A<br>
+        &nbsp;&nbsp;&nbsp; K A Y L A<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : O<br>          
       </h2>
     </section>
