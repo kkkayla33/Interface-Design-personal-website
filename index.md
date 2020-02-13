@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kkkayla33/kaylagao.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  
+  <body>
+    
+      <header>
+        <nav>
+          <a href="/index.html">WELCOME </a> |
+          <a href="/education.html">EDUCATION</a> |
+          <a href="/photo.html">PHOTOGRAPH</a> |
+          <a href="/movie.html">MOVIE</a> | 
+          <a href="/contact.html">CONTACT </a>
+        </nav>
+      </header>
+      <br>
+      <br>
+      <br>
+  
+    
+    <section>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <h2 id="logo">
+          Z I J I N G<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; K A Y L A<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : O<br>          
+      </h2>
+    </section>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <article>    
+        <figure>
+           <div >
+             <h2>
+                <img class="homeImg" id= "educationImg" src="https://cdn.glitch.com/d7bf6a76-3217-4b93-8763-2d6ce23c7fc0%2Fedu.png?v=1580961193302" alt="stand for education">      
+                <img class="homeImg" id= "photoImg" src="https://cdn.glitch.com/d7bf6a76-3217-4b93-8763-2d6ce23c7fc0%2Fphotp.png?v=1580961226652" alt="stand for photograph">
+                <img class="homeImg" id= "movieImg" src="https://cdn.glitch.com/d7bf6a76-3217-4b93-8763-2d6ce23c7fc0%2Fmovie.png?v=1580961197672" alt="stand for movie">
+                <img class="homeImg" id= "blogImg" src="https://cdn.glitch.com/d7bf6a76-3217-4b93-8763-2d6ce23c7fc0%2Fforblog.png?v=1581017993134" alt="stand for blog">
+            </h2> 
+               </div>
+        </figure>
+    </article>   
+    
 
-### Markdown
+    <footer>
+       <div>Photo Taken By | Amane Cárdenas</div>
+    
+    </footer>
+    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  </body>
+</html>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kkkayla33/kaylagao.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
