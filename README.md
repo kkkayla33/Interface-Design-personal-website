@@ -1,4 +1,4 @@
-# kaylagao.github.com
+#Course Assignment
 Kayla's portfolio website, using JavaScript, html, css. 
 Fulfilled simple functions, more focusing on interface design and introducing myself.
 
